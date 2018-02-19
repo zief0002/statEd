@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/catalst-project/</loc>
+    <loc>/Statistics-Education/post/catalst-project/</loc>
     <lastmod>2018-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/aims-project/</loc>
+    <loc>/Statistics-Education/post/aims-project/</loc>
     <lastmod>2014-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/Statistics-Education/about/</loc>
     <lastmod>2018-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/college-in-the-schools/</loc>
+    <loc>/Statistics-Education/post/college-in-the-schools/</loc>
     <lastmod>2018-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-02-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>/Statistics-Education/</loc>
     <lastmod>2018-02-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/Statistics-Education/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/Statistics-Education/post/</loc>
+    <lastmod>2018-02-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/Statistics-Education/tags/</loc>
     <priority>0</priority>
   </url>
   
