@@ -1,0 +1,22 @@
+.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+/.quarto/
+
+
+# Ignore the following folders
+/answer-keys
+/admin
+/docs/notes/00-rmarkdown
+
+# Ignore keynote files
+*.key
+
+# Ignore pages files
+*.pages
+
+
+
