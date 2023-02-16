@@ -11,7 +11,7 @@ project:
 website:
   title: "Statistics Education Lab"
   navbar:
-    background: "#ADCAD6"
+    background: "#bc69aa"
     search: true
     left:
       - text: "Home"
