@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "data/"
+    - "files/"
+    - "handouts/"
+    - "scripts/"
+
+website:
+  title: "Statistics Education Lab"
+  navbar:
+    background: "#ADCAD6"
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - sidebar:lab-members
+      - text: "Projects"
+        file: projects.qmd
+      - text: "Assessments"
+        file: assessments.qmd
+        
+  sidebar:
+    - id: lab-members
+      title: "Lab Members"
+      style: "docked"
+      background: light
+      collapse-level: 1
+      contents: 
+        - current-members.qmd
+        - former-members.qmd
+        
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - "assets/theme.scss"
+    linkcolor: "#BC69AA"
+    css: ["assets/sticky-notes.css"]
+    toc: true
+    header-includes: |
+      <script src="https://kit.fontawesome.com/e5da75ca36.js" crossorigin="anonymous"></script>
+    sidebar: false
+
+
+  

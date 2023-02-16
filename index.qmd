@@ -1,0 +1,30 @@
+---
+title: "Statistics Education Lab"
+---
+
+```{r}
+#| include: false
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+
+[Include a great picture]
+
+
+
+# About Our Lab
+
+
+The Statistics Education Lab is focused on...
+
+
+
+
+
+
+
+
+
+<br />
+
+
