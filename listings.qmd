@@ -1,0 +1,7 @@
+---
+title: "Statistics Education Research Lab Blog"
+listing:
+  contents: posts
+  sort: "date"
+  categories: true
+---

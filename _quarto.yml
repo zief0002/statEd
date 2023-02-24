@@ -17,10 +17,10 @@ website:
       - text: "Home"
         file: index.qmd
       - sidebar:lab-members
-      - text: "Projects"
+      - text: "Projects and Assessments"
         file: projects.qmd
-      - text: "Assessments"
-        file: assessments.qmd
+      - text: "Blog"
+        file: listings.qmd
         
   sidebar:
     - id: lab-members

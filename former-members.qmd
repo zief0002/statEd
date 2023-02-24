@@ -1,17 +1,297 @@
 ---
-title: "Former Members"
+title: "Former Students and Faculty"
 ---
 
-- Jonathan Brown
-- Ethan Brown
-- Anelise Sabbag
-- Elizabeth Fry
-- Laura Ziegler
-- Matthew Beckman
-- Jiyoon Park
-- Sharon Lane Getaz
-- Robert delMas
-- Joan Garfield
+<br /><br />
+
+:::container
+:::bio-pic
+<img src="figs/chelsey-legacy.jpg">
+:::
+
+:::bio
+### Chelsey Legacy
+
+Student<br />2017--2022
+
+Chelsey Legacy finished her doctoral work in 2022. Her dissertation topic was: [Understanding the development of students' multivariate statistical thinking in a data visualization course](https://iase-web.org/Publications.php?p=Dissertations). Chelsey is an Assistant Professor of Teaching in the Department of Educational Psychology at the University of Minnesota. To learn more, visit her [faculty page](https://www.cehd.umn.edu/edpsych/people/legac006/).
+:::
+:::
+
+<br /><br />
+
+---
+
+:::container
+:::bio-pic
+<img src="figs/jonathan-brown.png">
+:::
+
+:::bio
+### Jonathan Brown
+
+Student<br />201x--2021
+
+Jonathan Brown finished his doctoral work in 2021. his dissertation topic was: [Student Understanding of the Hypothetical Nature of Simulations in Introductory Statistics](https://iase-web.org/Publications.php?p=Dissertations). Jonathan is a Research and Project Management Analyst at the Office of Measurement Services at the University of Minnesota. To learn more, visit his [professional page](https://oms.umn.edu/about-us/staff-directory/jonathan-brown).
+:::
+:::
+
+<br /><br />
+
+---
+
+
+:::container
+:::bio-pic
+<img src="figs/ethan-brown.jpg">
+:::
+
+:::bio
+### Ethan Brown
+
+Student<br />201x--2019
+
+Ethan Brown finished his doctoral work in 2019. his dissertation topic was: [Growing Certain: Students’ Mechanistic Reasoning about the Empirical Law of Large Numbers](https://iase-web.org/Publications.php?p=Dissertations). Ethan is Associate Director at the [Research Methodology Consulting Center](https://rmcc.umn.edu/) at the University of Minnesota.
+:::
+:::
+
+<br /><br />
+
+---
+
+:::container
+:::bio-pic
+<img src="figs/elizabeth-brondos-fry.jpg">
+:::
+
+:::bio
+### Elizabeth Brondos Fry
+
+Student<br />2012--2017
+
+Elizabeth Brondos Fry finished her doctoral work in 2017. Her dissertation topic was: [Introductory Statistics Students' Conceptual Understanding of Study Design and Conclusions](https://iase-web.org/Publications.php?p=Dissertations). Elizabeth is an Evaluation Associate at the Center for Creative Leadership. To learn more, visit her [professional page](https://cclinnovation.org/team/elizabeth-brondos-fry/).
+:::
+:::
+
+<br /><br />
+
+---
+
+:::container
+:::bio-pic
+<img src="figs/laura-le.jpg">
+:::
+
+:::bio
+### Laura Le
+
+Student<br />2009--2017
+
+Laura Le finished her doctoral work in 2017. Her dissertation topic was: [Assessing the Development of Students' Statistical Thinking: An Exploratory Study](https://iase-web.org/Publications.php?p=Dissertations). Laura is a Lecturer in the Division of Biostatistics at the University of Minnesota. To learn more, visit her [Faculty page](https://directory.sph.umn.edu/bio/sph-a-z/laura-le).
+:::
+:::
+
+<br /><br />
+
+---
+
+:::container
+:::bio-pic
+<img src="figs/nicola-justice.jpg">
+:::
+
+:::bio
+### Nicola Justice
+
+Student<br />201x--2017
+
+Nicola Justice finished her doctoral work in 2017. Her dissertation topic was: [Statistics Graduate Students' Professional Development for Teaching: A Communities of Practice Model](https://iase-web.org/Publications.php?p=Dissertations). Nicola is an Assistant Professor in the Department of Mathematics at Pacific Lutheran University. To learn more, visit her [faculty page](https://www.plu.edu/math/staff/n-justice/).
+:::
+:::
+
+<br /><br />
+
+---
+
+:::container
+:::bio-pic
+<img src="figs/anelise-sabbag.jpg">
+:::
+
+:::bio
+### Anelise Sabbag
+
+Student<br />2011--2016
+
+Anelise Sabbag started as a Master's student in 2011. She then entered the Ph.D. program in 2013 and finished her doctoral work in 2016. Her dissertation topic was: [Examining the Relationship between Statistical Literacy and Statistical Reasoning](https://iase-web.org/Publications.php?p=Dissertations). Anelise is an Associate Professor in the Department of Statistics at Cal Poly, San Luis Obispo. To learn more, visit her [Faculty page](https://statistics.calpoly.edu/anelise-sabbag).
+:::
+:::
+
+<br /><br />
+
+---
+
+:::container
+:::bio-pic
+<img src="figs/matt-beckman.jpg">
+:::
+
+:::bio
+### Matthew Beckman
+
+Student<br />2009--2015
+
+Matt Beckman was a Ph.D. student from 2009--2015. His dissertation topic was: [Assessment of Cognitive Transfer Outcomes for Students of Introductory Statistics](https://iase-web.org/Publications.php?p=Dissertations). Matt currently is an Associate Research Professor and Chair of Undergraduate Curricula in the Department of Statistics at Penn State University. To learn more, visit his [faculty page](https://science.psu.edu/stat/people/mdb268).
+:::
+:::
+
+<br /><br />
+
+---
+
+:::container
+:::bio-pic
+<img src="figs/laura-ziegler.jpg">
+:::
+
+:::bio
+### Laura Ziegler
+
+Student<br />2009--2013
+
+Laura Ziegler was a Ph.D. student from 2009--2013. Her dissertation topic was: [Reconceptualizing Statistical Literacy: Developing an Assessment for the Modern Introductory Statistics Course](https://iase-web.org/Publications.php?p=Dissertations). Laura currently is a Teaching Professor in the Department of Statistics at Iowa State University. To learn more, visit her fFaculty page](https://www.stat.iastate.edu/people/laura-ziegler).
+:::
+:::
+
+<br /><br />
+
+---
+
+:::container
+:::bio-pic
+<img src="figs/auja-bjornsdottir.jpg">
+:::
+
+:::bio
+### Auðbjörg Björnsdóttir
+
+Student<br />2008--2012
+
+Auðbjörg Björnsdóttir was a Ph.D. student from 2008--2012. Her dissertation topic was: [Evaluating the Use of Two Different Models of Collaborative Tests in an Online Introductory Statistics Course](https://iase-web.org/Publications.php?p=Dissertations). Auðbjörg currently works as the Director of Centre for Teaching and Learning at the University of Akureyri (Iceland). To learn more, visit her [faculty page](https://www.unak.is/english/moya/ugla/staff/audbjorg-bjornsdottir).
+:::
+:::
+
+<br /><br />
+
+---
+
+:::container
+:::bio-pic
+<img src="figs/jiyoon-park.jpg">
+:::
+
+:::bio
+### Jiyoon Park
+
+Student<br />2008--2012
+
+Jiyoon Park was a Ph.D. student from 2008--2012. Her dissertation topic was: [Developing and Validating an Instrument to Measure College Students' Inferential Reasoning in Statistics: An Argument-Based Approach to Validation](https://iase-web.org/Publications.php?p=Dissertations). Jiyoon currently works as an AI scientist at AstraZeneca leading a methodology team in developing Benefit Risk Assessment framework to evaluate drugs' benefits and risks in product development Lifecyle. To learn more, visit her [LinkedIn page](https://www.linkedin.com/in/jiyoon-park-07119559/).
+:::
+:::
+
+<br /><br />
+
+---
+
+:::container
+:::bio-pic
+<img src="figs/sharon-lane-getaz.jpg">
+:::
+
+:::bio
+### Sharon Lane-Getaz
+
+Student<br />2003--2007
+
+Sharon Lane-Getaz was a Ph.D. student from 2003--2007. Her dissertation topic was: [Development and Validation of a Research-based Assessment: Reasoning about P-values and Statistical Significance](https://iase-web.org/Publications.php?p=Dissertations). After she graduated in 2007, Sharon took a position at St. Olaf College. To learn more, visit her [faculty page](https://www.stolaf.edu/profile/lanegeta).
+:::
+:::
+
+<br /><br />
+
+---
+
+:::container
+:::bio-pic
+<img src="figs/andrew-zieffler.jpg">
+:::
+
+:::bio
+### Andrew Zieffler
+
+Student<br />2002--2006
+
+Andrew Zieffler finished his dissertation in 2006. His dissertation topic was: [A Longitudinal Investigation of the Development of College Students’ Reasoning About Bivariate Data During an Introductory Statistics Course](https://iase-web.org/Publications.php?p=Dissertations). Andrew currently works as an Associate Teaching Professor in the Department of Educational Psychology at the University of Minnesota. To learn more, visit his [faculty page](https://www.cehd.umn.edu/edpsych/people/zief0002/).
+:::
+:::
+
+<br /><br />
+
+---
+
+:::container
+:::bio-pic
+<img src="figs/michelle-everson.gif">
+:::
+
+:::bio
+### Michelle Everson
+
+Faculty<br />2002--2013
+
+Michelle Everson was a faculty member in the Statistics Education Research Lab. She was involved in the lab until she left the University of Minnesota to take a position at the Ohio State University. To learn more, visit her [faculty page](https://stat.osu.edu/people/everson.50).
+:::
+:::
+
+<br /><br />
+
+---
+
+:::container
+:::bio-pic
+<img src="figs/robert-delmas.jpg">
+:::
+
+:::bio
+### Robert delMas
+
+Faculty<br />2002--2016
+
+Robert delMas was a faculty member in the Statistics Education Research Lab. He was involved as a faculty member since the lab's inception in 2002 and retired in 2022. To learn more, visit his [faculty page](https://www.cehd.umn.edu/edpsych/people/delma001/).
+:::
+:::
+
+<br /><br />
+
+---
+
+:::container
+:::bio-pic
+<img src="figs/joan-garfield.jpg">
+:::
+
+:::bio
+### Joan Garfield
+
+Faculty<br />2002--2016
+
+Joan Garfield initiated the Statistics Education program in QME in 2002 and was the original director of the Statistics Education Research Lab. She retired in 2016. To learn more, visit her [faculty page](https://www.cehd.umn.edu/edpsych/people/jbg/).
+:::
+:::
+
+
+
+
 
 
 

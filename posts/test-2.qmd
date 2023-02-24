@@ -1,0 +1,14 @@
+---
+title: "Test 2"
+subtitle: "Another Blog Post Test"
+author: "Andy"
+date:  "`r Sys.Date()`"
+categories:
+  - R Syntax
+  - Assessment
+  - STI
+image: "img/data-plot.jpg"
+---
+
+
+Here is some blog text.
